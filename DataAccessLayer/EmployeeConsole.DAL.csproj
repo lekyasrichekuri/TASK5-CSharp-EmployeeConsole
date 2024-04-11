@@ -11,8 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Data\Data.csproj" />
-    <ProjectReference Include="..\Models\Models.csproj" />
+    <ProjectReference Include="..\Data\EmployeeConsole.Data.csproj" />
+    <ProjectReference Include="..\Models\EmployeeConsole.Models.csproj" />
   </ItemGroup>
 
 </Project>

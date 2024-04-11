@@ -4,12 +4,12 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
-using DataAccessLayer;
-using Models;
+using EmployeeConsole.DAL;
+using EmployeeConsole.Models;
 using Interfaces;
-using BusinessLogicLayer.Interfaces;
+using EmployeeConsole.BLL.Interfaces;
 
-namespace BusinessLogicLayer.Services
+namespace EmployeeConsole.BLL.Services
 {
     public class EmployeeServices : IEmployeeServices
     {

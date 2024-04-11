@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-using PresentationLayer.Services;
+using EmployeeConsole.PAL.Services;
 
-namespace ConsoleApp
+namespace EmployeeConsole.Main
 {
     public class Program
     { 

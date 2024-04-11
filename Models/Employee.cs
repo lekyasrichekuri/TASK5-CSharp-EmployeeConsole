@@ -1,4 +1,4 @@
-﻿namespace Models
+﻿namespace EmployeeConsole.Models
 {
     public class Employee
     {

@@ -5,17 +5,17 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "..\Interfaces\Interfaces.csproj", "{95BD3B9C-0A9E-4BA2-922A-E69F5A073A7D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Models", "..\Models\Models.csproj", "{D82360B3-C04B-40CB-BABE-2BF6A2F2321E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeConsole.Models", "..\Models\EmployeeConsole.Models.csproj", "{D82360B3-C04B-40CB-BABE-2BF6A2F2321E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PresentationLayer", "..\UI\PresentationLayer.csproj", "{01FC3EC6-007D-4F41-8734-12EF9BF4E6EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeConsole.PAL", "..\UI\EmployeeConsole.PAL.csproj", "{01FC3EC6-007D-4F41-8734-12EF9BF4E6EA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "..\ConsoleApp\ConsoleApp.csproj", "{8C703158-5111-45A5-AE34-931805D83364}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeConsole.Main", "..\ConsoleApp\EmployeeConsole.Main.csproj", "{8C703158-5111-45A5-AE34-931805D83364}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data", "..\Data\Data.csproj", "{CA922EA7-A4EF-4926-BD6B-9041ACC3BEA2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeConsole.Data", "..\Data\EmployeeConsole.Data.csproj", "{CA922EA7-A4EF-4926-BD6B-9041ACC3BEA2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "..\DataAccessLayer\DataAccessLayer.csproj", "{DD0CA993-79F8-4708-8E53-EF8CEEA14170}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeConsole.DAL", "..\DataAccessLayer\EmployeeConsole.DAL.csproj", "{DD0CA993-79F8-4708-8E53-EF8CEEA14170}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogicLayer", "..\BusinessLogicLayer\BusinessLogicLayer.csproj", "{0DEA0D2B-62DD-433A-9A32-11E2C5954F5F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeConsole.BLL", "..\BusinessLogicLayer\EmployeeConsole.BLL.csproj", "{0DEA0D2B-62DD-433A-9A32-11E2C5954F5F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

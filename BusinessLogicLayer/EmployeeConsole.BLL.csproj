@@ -7,10 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj" />
-    <ProjectReference Include="..\Data\Data.csproj" />
+    <ProjectReference Include="..\DataAccessLayer\EmployeeConsole.DAL.csproj" />
+    <ProjectReference Include="..\Data\EmployeeConsole.Data.csproj" />
     <ProjectReference Include="..\Interfaces\Interfaces.csproj" />
-    <ProjectReference Include="..\Models\Models.csproj" />
+    <ProjectReference Include="..\Models\EmployeeConsole.Models.csproj" />
   </ItemGroup>
 
 </Project>

@@ -4,15 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
-using Models;
+using EmployeeConsole.Models;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 using System.Data;
-using DataAccessLayer;
-using BusinessLogicLayer.Services;
+using EmployeeConsole.DAL;
+using EmployeeConsole.BLL.Services;
 using Interfaces;
 
 
-namespace PresentationLayer.Services
+namespace EmployeeConsole.PAL.Services
 {
     public class RoleUI : IRoleUI
     {

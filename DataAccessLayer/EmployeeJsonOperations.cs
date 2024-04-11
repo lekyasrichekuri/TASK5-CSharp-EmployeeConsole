@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.IO;
 using Newtonsoft.Json;
-using Models;
+using EmployeeConsole.Models;
 
 
-namespace DataAccessLayer
+namespace EmployeeConsole.DAL
 {
     public class EmployeeJsonOperations
     {

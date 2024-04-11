@@ -1,12 +1,12 @@
 ﻿using System.Globalization;
 using System.Reflection;
 using System.Text.RegularExpressions;
-using Models;
-using DataAccessLayer;
+using EmployeeConsole.Models;
+using EmployeeConsole.DAL;
 using Interfaces;
-using BusinessLogicLayer.Services;
+using EmployeeConsole.BLL.Services;
 
-namespace PresentationLayer.Services
+namespace EmployeeConsole.PAL.Services
 {
     public class EmployeeUI : IEmployeeUI
     {

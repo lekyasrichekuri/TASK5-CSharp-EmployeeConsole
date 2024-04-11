@@ -11,10 +11,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BusinessLogicLayer\BusinessLogicLayer.csproj" />
-    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj" />
+    <ProjectReference Include="..\BusinessLogicLayer\EmployeeConsole.BLL.csproj" />
+    <ProjectReference Include="..\DataAccessLayer\EmployeeConsole.DAL.csproj" />
     <ProjectReference Include="..\Interfaces\Interfaces.csproj" />
-    <ProjectReference Include="..\Models\Models.csproj" />
+    <ProjectReference Include="..\Models\EmployeeConsole.Models.csproj" />
   </ItemGroup>
 
 </Project>

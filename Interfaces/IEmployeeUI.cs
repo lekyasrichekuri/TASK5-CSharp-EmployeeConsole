@@ -1,4 +1,4 @@
-﻿using Models;
+﻿using EmployeeConsole.Models;
 namespace Interfaces
 {
     public interface IEmployeeUI

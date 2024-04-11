@@ -1,4 +1,4 @@
-﻿namespace BusinessLogicLayer.Interfaces
+﻿namespace EmployeeConsole.BLL.Interfaces
 {
     public interface IEmployeeServices
     {

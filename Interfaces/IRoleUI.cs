@@ -4,7 +4,7 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Models;
+using EmployeeConsole.Models;
 
 namespace Interfaces
 {
