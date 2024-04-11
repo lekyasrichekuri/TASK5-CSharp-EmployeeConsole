@@ -1,0 +1,80 @@
+[
+  {
+    "EmpId": "TZ1470",
+    "Name": "Chekuri Lekya sri",
+    "DateOfBirth": "28-05-2003",
+    "Email": "lekya@technovert.com",
+    "PhoneNumber": "7989526920",
+    "JoiningDate": "17-01-2024",
+    "Location": "Hyderabad",
+    "JobTitle": "Intern",
+    "Department": "PE",
+    "Manager": "Santhosh",
+    "Project": "Employee Console"
+  },
+  {
+    "EmpId": "TZ1473",
+    "Name": "Chekuri Prasanna",
+    "DateOfBirth": "29-06-2001",
+    "Email": "prasanna@technvert.com",
+    "PhoneNumber": "7989526920",
+    "JoiningDate": "17-01-2024",
+    "Location": "Hyderabad",
+    "JobTitle": "Software Developer",
+    "Department": "Product Engineering",
+    "Manager": "Krishna",
+    "Project": "Web Application"
+  },
+  {
+    "EmpId": "TZ1435",
+    "Name": "Chekuri Rajeswari",
+    "DateOfBirth": "19-06-2000",
+    "Email": "rajeswari@technovert.com",
+    "PhoneNumber": "9293768787",
+    "JoiningDate": "17-01-2024",
+    "Location": "Hyderabad",
+    "JobTitle": "Front end Developer",
+    "Department": "Product Engineering",
+    "Manager": "Pradeep",
+    "Project": "Front end application"
+  },
+  {
+    "EmpId": "TZ1657",
+    "Name": "Chekuri Krishnam Raju",
+    "DateOfBirth": "01-05-1999",
+    "Email": "Krishna@gmail.com",
+    "PhoneNumber": "9948132555",
+    "JoiningDate": "17-01-2024",
+    "Location": "Hyderabad",
+    "JobTitle": "Back end Developer",
+    "Department": "Product Engineering",
+    "Manager": "Sandeep",
+    "Project": "Back end Application"
+  },
+  {
+    "EmpId": "TZ1520",
+    "Name": "Sravanthi Karri",
+    "DateOfBirth": "22-08-2003",
+    "Email": "sravanthi@technovert.com",
+    "PhoneNumber": "9516839999",
+    "JoiningDate": "22-01-2024",
+    "Location": "Hyderabad",
+    "JobTitle": "Intern",
+    "Department": "Product Engineering",
+    "Manager": "Ravi Kiran",
+    "Project": "Console Application"
+  },
+  {
+    "EmpId": "TZ1472",
+    "Name": "Hari chandana",
+    "DateOfBirth": "29-07-2002",
+    "Email": "dhana@technovert.com",
+    "PhoneNumber": "9948836555",
+    "JoiningDate": "17-01-2024",
+    "Location": "Hyderabad",
+    "JobTitle": "Front end Developer",
+    "Department": "PE",
+    "Manager": "Randeer",
+    "Project": "Web Application"
+  }
+]
